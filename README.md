@@ -18,5 +18,5 @@
     <p>WEB 3.0 opens the door to the world of digital economy, where blockchain technologies and cryptocurrencies become tools for various financial transactions and new business 
        models. Investing in such an economy can bring significant dividends and ensure participation in global innovation projects.</p>
   </li>
-  <li></li>
 </ul>
+<p>Investing in WEB 3.0 is a promising and highly innovative strategy that can generate significant revenues. Cargio provides clients with unique opportunities to participate in this technological revolution, allowing investors to generate high returns with minimal risks, making it an attractive choice for those seeking to be at the forefront of WEB 3.0.</p>
