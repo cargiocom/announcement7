@@ -6,5 +6,6 @@
 <ul>
   <li>
     <h3>Growth prospects for blockchain technology</h3>
+    <p>Blockchain technology, the foundation of WEB 3.0, is an innovative approach to data storage and transmission. Its transparency, reliability and smart contract capabilities are          attracting the attention of both corporate clients and individual investors. Investing in WEB 3.0 opens access to the growing world of decentralized finance and ecosystems.</p>
   </li>
 </ul>
