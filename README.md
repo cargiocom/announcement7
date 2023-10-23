@@ -15,5 +15,8 @@
   </li>
   <li>
     <h3>The potential of the digital economy</h3>
+    <p>WEB 3.0 opens the door to the world of digital economy, where blockchain technologies and cryptocurrencies become tools for various financial transactions and new business 
+       models. Investing in such an economy can bring significant dividends and ensure participation in global innovation projects.</p>
   </li>
+  <li></li>
 </ul>
